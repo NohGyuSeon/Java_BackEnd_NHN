@@ -1,0 +1,38 @@
+
+Q
+java:S1066d"/Merge this if statement with the enclosing one.(Ïßóëıÿÿÿÿ8ûÌç”ë0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•øûÖ
+‚
+java:S1450"`Remove the "gameMouseListener" field and declare it as a local variable in the relevant methods.(ùÿ§£ıÿÿÿÿ8íÜŒë0
+D
+java:S1948"'Make "image" transient or serializable.(ğã’8íÜŒë0
+@
+java:S1948"#Make "g" transient or serializable.(Óœé“8íÜŒë0
+U
+java:S1948"3Make "gameMouseListener" transient or serializable.(ùÿ§£ıÿÿÿÿ8íÜŒë0
+L
+java:S1948"*Make "gameBall" transient or serializable.(ÛÍ€øÿÿÿÿ8íÜŒë0
+N
+java:S1948",Make "gamePaddle" transient or serializable.(²”–ùÿÿÿÿ8íÜŒë0
+K
+java:S1948")Make "gameMap" transient or serializable.(™áƒùÿÿÿÿ8íÜŒë0
+K
+java:S1948")Make "gameHud" transient or serializable.(ªÍøÊúÿÿÿÿ8íÜŒë0
+G
+java:S1948 "*Make "powerUps" transient or serializable.(íù‰¥8ËÍç”ë0
+o
+java:S3776["RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(ØĞó8øÜŒë0
+]
+java:S1854z"@Remove this useless assignment to local variable "gameMapArray".(Ù³š¯8øÜŒë0
+N
+java:S1481z"1Remove this unused "gameMapArray" local variable.(Ù³š¯8úÜŒë0
+]
+java:S1119|";Refactor the code to remove this label and the need for it.(õ§šƒûÿÿÿÿ8úÜŒë0
+S
+java:S2209˜"5Change this instance-reference to a static reference.(ÆµßÓ8ÕÍç”ë0
+S
+java:S2209˜"5Change this instance-reference to a static reference.(ÆµßÓ8ÕÍç”ë0
+X
+java:S1161ô":Add the "@Override" annotation above this method signature(¶øÂÁ8üÜŒë0
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(®—ËF8şÜŒë0

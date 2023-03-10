@@ -1,0 +1,7 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•øûÖ
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(µÉ³‹8ªõ·ë0
+A
+java:S1659"$Declare "Height" on a separate line.(µÉ³‹8ªõ·ë0
+k
+java:S3252%"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¹¿ùøÿÿÿÿ8“ªõ·ë0
