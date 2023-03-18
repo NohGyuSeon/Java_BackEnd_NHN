@@ -1,0 +1,54 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•øûÖ8¶¦î‘ë0
+s	java:S116"RRename this field "HOR_PAD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç•¡êúÿÿÿÿ8Š§î‘ë0
+t	java:S116"SRename this field "VERT_PAD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç•¡êúÿÿÿÿ8Š§î‘ë0
+n
+java:S3008"LRename this field "R" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Ê¾„ùÿÿÿÿ8„äÎë0
+n
+java:S3008"LRename this field "G" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Ê¾„ùÿÿÿÿ8„äÎë0
+n
+java:S3008"LRename this field "B" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Ê¾„ùÿÿÿÿ8„äÎë0
+C
+java:S1170"!Make this final field static too.(Ç•¡êúÿÿÿÿ8‹§î‘ë0
+C
+java:S1170"!Make this final field static too.(Ç•¡êúÿÿÿÿ8‹§î‘ë0
+`
+java:S1659">Declare "G" and all following declarations on a separate line.(´Ê¾„ùÿÿÿÿ8…äÎë0
+J
+java:S1659"(Declare "brickWidth" on a separate line.(¯§¾ûùÿÿÿÿ8‹§î‘ë0
+H
+java:S1659"&Declare "VERT_PAD" on a separate line.(Ç•¡êúÿÿÿÿ8Œ§î‘ë0
+N
+java:S3010"",Remove this assignment of "initBricksCount".(²¨‹¹ûÿÿÿÿ8‡äÎë0
+I
+java:S3010#"'Remove this assignment of "breakCount".(†Ü×Ôüÿÿÿÿ8‡äÎë0
+R
+java:S2696,"6Make the enclosing method "static" or remove this set.(  Â8§î‘ë0
+E
+java:S2140,")Use "java.util.Random.nextInt()" instead.(  Â8§î‘ë0
+X
+java:S2696-"6Make the enclosing method "static" or remove this set.(Ò¹ö¸üÿÿÿÿ8§î‘ë0
+K
+java:S2140-")Use "java.util.Random.nextInt()" instead.(Ò¹ö¸üÿÿÿÿ8§î‘ë0
+E
+java:S21401")Use "java.util.Random.nextInt()" instead.(Ï¯Ó8§î‘ë0
+o
+java:S3776>"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ãÁğ˜8§î‘ë0
+S
+java:S2696h"6Make the enclosing method "static" or remove this set.(ÖÈ¤İ8ŠäÎë0
+S
+java:S2696l"6Make the enclosing method "static" or remove this set.(†åÂ¼8ŠäÎë0
+T
+java:S2696¥"6Make the enclosing method "static" or remove this set.(¦ÉÉ8ŠäÎë0
+T
+java:S2696©"6Make the enclosing method "static" or remove this set.(õ¡µ—8ŠäÎë0
+G
+java:S2140©")Use "java.util.Random.nextInt()" instead.(õ¡µ—8ŠäÎë0
+T
+java:S2696ª"6Make the enclosing method "static" or remove this set.(¡ÿ¦µ8‹äÎë0
+G
+java:S2140ª")Use "java.util.Random.nextInt()" instead.(¡ÿ¦µ8‹äÎë0
+T
+java:S2696«"6Make the enclosing method "static" or remove this set.(şóíµ8‹äÎë0
+G
+java:S2140«")Use "java.util.Random.nextInt()" instead.(şóíµ8‹äÎë0

@@ -1,0 +1,12 @@
+
+Š
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(±êá­8úóğï0
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²èÆò8ûóğï0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¦ ëñ8ƒôğï0
+]
+java:S1075;"ARefactor your code to get this URI from a customizable parameter.(©ûÉs8…ôğï0
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(¬¤ş«ÿÿÿÿÿ8†ôğï0
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(†ÈÅíÿÿÿÿÿ8†ôğï0
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(Ó£‘úÿÿÿÿ8†ôğï0
+Z	java:S106L"9Replace this use of System.out or System.err by a logger.(¢ã³ùÿÿÿÿ8†ôğï0
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(Ô›•øıÿÿÿÿ8†ôğï0

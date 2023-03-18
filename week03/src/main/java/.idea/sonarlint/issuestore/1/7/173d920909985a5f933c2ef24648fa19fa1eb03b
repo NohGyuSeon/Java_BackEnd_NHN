@@ -1,0 +1,14 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êıüÜúÿÿÿÿ
+J
+java:S1068"/Remove this unused "servingSize" private field.(µÁ€Ìıÿÿÿÿ
+G
+java:S1068",Remove this unused "servings" private field.(ò’©æøÿÿÿÿ
+B
+java:S1068",Remove this unused "calories" private field.(»¤µâ
+=
+java:S1068"'Remove this unused "fat" private field.(å®­»
+@
+java:S1068"*Remove this unused "sodium" private field.(áëµ
+F
+java:S1068	"0Remove this unused "carbohydrate" private field.(Ì³á 
