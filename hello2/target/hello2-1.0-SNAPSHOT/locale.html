@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>read-cookie-test</title>
+  <script type="text/javascript">
+    function setCookie(name, value, days) {
+      let expires = "";
+      if (days) {
+        const date = new Date();
+        date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+        expires = "; expires=" + date.toUTCString();
+      }
+      document.cookie = name + "=" + value + expires + "; path=/";
+    }
+
+    window.addEventListener("DOMContentLoaded", function () {
+      const btnCookie = document.getElementById("btnCookie");
+
+      btnCookie.addEventListener("click", function () {
+        setCookie("locale", "ko", 3);
+        alert("쿠기설정:locale=ko")
+      });
+    });
+  </script>
+</head>
+<body>
+<ol>
+  <li><a href="/set-cookie?locale=ko">ko</a></li>
+  <li><a href="/set-cookie?locale=en">en</a></li>
+  <li><a href="/read-cookie">/read-cookie</a></li>
+  <li><button id="btnCookie">쿠키생성</button></li>
+</ol>
+</body>
+</html>
