@@ -1,0 +1,29 @@
+<html>
+    <head></head>
+    <script>
+         // Promise 객체의 생성
+         const promise = new Promise((resolve, reject) => {
+                setTimeout(function(){
+                    const num =  getRandomInt(10);
+                    if(num>5){
+                        resolve(num);
+                    }else{
+                        reject(num);
+                    }
+
+                },1000);
+
+            }).then(result=>{
+                console.log("success",result)
+            })
+            .catch(result=>{
+                console.log("error:",result);
+            }).finally(function(){
+                console.log("무조건 실행");
+            });
+
+            function getRandomInt(max) {
+                return Math.floor(Math.random() * max);
+            }
+    </script>
+</html>

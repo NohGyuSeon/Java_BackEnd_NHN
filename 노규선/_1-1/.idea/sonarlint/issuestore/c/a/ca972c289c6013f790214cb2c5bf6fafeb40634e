@@ -1,0 +1,14 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñù¿ü
++
+java:S2438""this" is a "Thread".(ù˜¿”
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(–Œ¡•
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(«îí
+?
+java:S1068"*Remove this unused "thread" private field.(â£Ÿ4
+<
+java:S1068"&Remove this unused "id" private field.(æ¨ç†
+G
+java:S1068",Remove this unused "sendData" private field.(®ĞÏ„ûÿÿÿÿ
+E
+java:S1068"*Remove this unused "socket" private field.(Å’¬Úşÿÿÿÿ

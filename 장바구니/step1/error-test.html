@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <script>
+            try {
+
+                setTimeout(() => { 
+                    throw new Error('error'); 
+                }, 1000);
+
+            } catch (e) {
+                alert("error <-- 에러를 잡을 수 없음")
+                console.log(e);
+            }
+        </script>
+    </head>
+</html>

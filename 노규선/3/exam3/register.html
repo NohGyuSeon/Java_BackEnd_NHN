@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <title>노규선.시험3</title>
+  <script src="./main.js"></script>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<main>
+  <h1 id="head">회원가입</h1>
+  <div id="login">
+    <div id="login-success">
+      <ul>
+        <li>아이디<span id="login-userId"></span></li>
+        <li>이름<span id="login-userName"></span></li>
+        <li>비밀번호1<span id="login-userPassword1"></span></li>
+        <li>비밀번호2<span id="login-userPassword2"></span></li>
+      </ul>
+    </div>
+    <div id="login-wrapper">
+      <form id="login-form">
+        <input type="text" name="userId" value="kusun1020"/></br>
+        <input type="text" name="userName" value="노규선"/></br>
+        <input type="password" name="userPassword1" value="991020"/></br>
+        <input type="password" name="userPassword2" value="991020"/></br>
+        <button type="submit" id="btn-find">등록</button>
+      </form>
+    </div>
+    <div id="login-check">
+      <span id="checkingSuccess" style="display: none">회원가입 성공!</span>
+      <span id="checkingFail" style="display: none">회원가입 실패!</span>
+    </div>
+  </div>
+</main>
+</body>
+</html>

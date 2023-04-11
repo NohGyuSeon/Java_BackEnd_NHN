@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6ab3ca3b-b0f4-42c2-83ed-4c13ffb5e293" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../exercise/.idea/sonarlint/issuestore/1/a/1aa4c6e96b3bdf1595209f776bee05dbdb99febd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise/.idea/sonarlint/issuestore/3/a/3a8d03bb696c2ac3d39addd226b425b023f1ae6a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise/.idea/sonarlint/issuestore/4/e/4eaef9e088f2f73d9a2785e141d8a367e5fba786" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise/.idea/sonarlint/issuestore/b/9/b976533fef2eac1ff1c844582b7e2d1082141ea9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise/.idea/sonarlint/issuestore/b/b/bbc58f90cddc515a15971f301990c8c1afb7507b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise/.idea/sonarlint/issuestore/c/1/c1e03e6cbba4145ae67d76188d2f6d625484409f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise/.idea/sonarlint/issuestore/e/d/ed322ebfd350e6d3069a415502a84c05e642159e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise/.idea/sonarlint/securityhotspotstore/1/a/1aa4c6e96b3bdf1595209f776bee05dbdb99febd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise/.idea/sonarlint/securityhotspotstore/3/a/3a8d03bb696c2ac3d39addd226b425b023f1ae6a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise/.idea/sonarlint/securityhotspotstore/4/e/4eaef9e088f2f73d9a2785e141d8a367e5fba786" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise/.idea/sonarlint/securityhotspotstore/b/9/b976533fef2eac1ff1c844582b7e2d1082141ea9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise/.idea/sonarlint/securityhotspotstore/b/b/bbc58f90cddc515a15971f301990c8c1afb7507b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise/.idea/sonarlint/securityhotspotstore/c/1/c1e03e6cbba4145ae67d76188d2f6d625484409f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise/.idea/sonarlint/securityhotspotstore/e/d/ed322ebfd350e6d3069a415502a84c05e642159e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tago-국내항공운항/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tago-국내항공운항/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tago-국내항공운항/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tago-국내항공운항/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/.idea/sonarlint/issuestore/5/d/5d09da583bcc2ea7a6ce6adfae420cd8f216a656" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/.idea/sonarlint/issuestore/a/a/aa3b3c96a02286e798bdf2aa077f277c9ab1dde1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/.idea/sonarlint/issuestore/b/4/b4ff19e234b84bcd88fe85ca6f391ce9429cf4a4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/.idea/sonarlint/issuestore/e/4/e4cf0d7d93e0a6fc98536430794fa803fbc48ef5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/.idea/sonarlint/securityhotspotstore/5/d/5d09da583bcc2ea7a6ce6adfae420cd8f216a656" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/.idea/sonarlint/securityhotspotstore/a/a/aa3b3c96a02286e798bdf2aa077f277c9ab1dde1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/.idea/sonarlint/securityhotspotstore/b/4/b4ff19e234b84bcd88fe85ca6f391ce9429cf4a4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/.idea/sonarlint/securityhotspotstore/e/4/e4cf0d7d93e0a6fc98536430794fa803fbc48ef5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/.idea/week01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day02/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day02/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day02/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day02/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day02/.idea/sonarlint/issuestore/0/4/046cfe45e7dafa7fec4c69645d436b7ce8f89a0f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day02/.idea/sonarlint/issuestore/2/0/202251e1ee86139dbc3d7f86b608a9d7b3ac89d6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day02/.idea/sonarlint/issuestore/4/e/4e03ea813b1fe94e3c6d77c1ef00679f9e6a44ce" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day02/.idea/sonarlint/issuestore/e/5/e53000a2ea4186a21666db4ec96c5e14d84ef543" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day02/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day02/.idea/sonarlint/securityhotspotstore/0/4/046cfe45e7dafa7fec4c69645d436b7ce8f89a0f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day02/.idea/sonarlint/securityhotspotstore/2/0/202251e1ee86139dbc3d7f86b608a9d7b3ac89d6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day02/.idea/sonarlint/securityhotspotstore/4/e/4e03ea813b1fe94e3c6d77c1ef00679f9e6a44ce" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day02/.idea/sonarlint/securityhotspotstore/e/5/e53000a2ea4186a21666db4ec96c5e14d84ef543" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day02/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day02/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day02/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day02/day02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day02/first/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day02/first/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day02/homework1/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day02/homework2/SleepingBarber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day02/pratice/prac01/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day02/pratice/prac01/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day02/pratice/prac02/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day02/second/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/.idea/sonarlint/issuestore/8/3/831c523de9dd4f364790b2666cc0d48fde557a89" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/.idea/sonarlint/issuestore/b/0/b0f6824422fa41298570799c3cefc8992c38f67e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/.idea/sonarlint/securityhotspotstore/8/3/831c523de9dd4f364790b2666cc0d48fde557a89" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/.idea/sonarlint/securityhotspotstore/b/0/b0f6824422fa41298570799c3cefc8992c38f67e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/day03.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/eighth/code/MultiFileDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/fifth/code/TestHoldAndWaitDeadLock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/first/code/Counter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/first/code/CounterRunnable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/first/code/CounterThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/first/test/TestCounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/first/test/TestCounterRunnable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/first/test/TestCounterThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/fourth/code/TestCircularWaitDeadLock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/homework1/code/Buyer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/homework1/code/Mart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/homework1/code/MySemaphore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/homework1/code/Seller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/homework1/test/TestMart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/ninth/code/DaemonThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/practice/prac01/code/Counter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/practice/prac05/Buyer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/second/code/Pipe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/second/code/Receiver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/second/code/Sender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/second/test/TestPipe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/seventh/code/ThreadPool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/sixth/code/TestClothingStore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/ten/code/Buyer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/ten/code/Seller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/ten/code/Store.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/ten/test/TestMart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/third/code/CountAgent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/third/code/Counter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day03/third/test/TestCounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/.idea/day04.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/.idea/sonarlint/issuestore/1/2/125a187500c18309af34f99ff01b8ac4a0d377ee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/.idea/sonarlint/issuestore/1/d/1d3d430646ab1a6c1b288c48419e233cd2e7ff2e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/.idea/sonarlint/issuestore/2/d/2d2cc22e52cb1d3ad939d47125a0f2b50f8a3b28" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/.idea/sonarlint/issuestore/3/2/32b9364d9499c26de11c17302115b56faccdb1a2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/.idea/sonarlint/issuestore/4/6/461c1bb607a22be61b18b8ec1faea5778e26cca3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/.idea/sonarlint/issuestore/6/f/6f5b5cb7b7d6ba8809ebfff238c4326629087de4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/.idea/sonarlint/issuestore/7/7/772407cf9b92a06ac13f59304acf8a1244f26399" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/.idea/sonarlint/issuestore/b/5/b5fb750a39e470e3cbf46363d39c19f0aab0703d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/.idea/sonarlint/issuestore/e/a/ead0fd3e4f92df55570ce25ffca842990b68dbd0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/.idea/sonarlint/issuestore/f/6/f6ce9e9c064f545c4edea0f419bdbfd0e2af5e77" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/.idea/sonarlint/securityhotspotstore/1/2/125a187500c18309af34f99ff01b8ac4a0d377ee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/.idea/sonarlint/securityhotspotstore/1/d/1d3d430646ab1a6c1b288c48419e233cd2e7ff2e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/.idea/sonarlint/securityhotspotstore/2/d/2d2cc22e52cb1d3ad939d47125a0f2b50f8a3b28" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/.idea/sonarlint/securityhotspotstore/3/2/32b9364d9499c26de11c17302115b56faccdb1a2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/.idea/sonarlint/securityhotspotstore/4/6/461c1bb607a22be61b18b8ec1faea5778e26cca3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/.idea/sonarlint/securityhotspotstore/6/f/6f5b5cb7b7d6ba8809ebfff238c4326629087de4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/.idea/sonarlint/securityhotspotstore/7/7/772407cf9b92a06ac13f59304acf8a1244f26399" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/.idea/sonarlint/securityhotspotstore/b/5/b5fb750a39e470e3cbf46363d39c19f0aab0703d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/.idea/sonarlint/securityhotspotstore/e/a/ead0fd3e4f92df55570ce25ffca842990b68dbd0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/.idea/sonarlint/securityhotspotstore/f/6/f6ce9e9c064f545c4edea0f419bdbfd0e2af5e77" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/BrickBreakerGame/Ball.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/BrickBreakerGame/BrickPiece.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/BrickBreakerGame/BrickSplosion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/BrickBreakerGame/GamePanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/BrickBreakerGame/HUD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/BrickBreakerGame/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/BrickBreakerGame/Map.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/BrickBreakerGame/Movable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/BrickBreakerGame/Paddle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/BrickBreakerGame/PowerUp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/out/production/day04/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/out/production/day04/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/out/production/day04/.idea/day04.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/out/production/day04/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/out/production/day04/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/out/production/day04/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/out/production/day04/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/out/production/day04/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/out/production/day04/BrickBreakerGame.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/out/production/day04/BrickBreakerGame/Ball.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/out/production/day04/BrickBreakerGame/BrickPiece.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/out/production/day04/BrickBreakerGame/BrickSplosion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/out/production/day04/BrickBreakerGame/GamePanel$MyMouseMotionListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/out/production/day04/BrickBreakerGame/GamePanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/out/production/day04/BrickBreakerGame/HUD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/out/production/day04/BrickBreakerGame/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/out/production/day04/BrickBreakerGame/Map.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/out/production/day04/BrickBreakerGame/Movable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/out/production/day04/BrickBreakerGame/Paddle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/day04/out/production/day04/BrickBreakerGame/PowerUp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01/week01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day03/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day03/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day03/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day03/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day03/.idea/sonarlint/issuestore/7/3/7341977f676b5bcf48b82fd30410c866b0cded80" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day03/.idea/sonarlint/issuestore/9/f/9f62e293c779b49ba00d35ee4bd2ea63279c8b37" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day03/.idea/sonarlint/issuestore/a/f/afa7083e9b37d4c82c8117e524f0e39941bab8c0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day03/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day03/.idea/sonarlint/securityhotspotstore/7/3/7341977f676b5bcf48b82fd30410c866b0cded80" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day03/.idea/sonarlint/securityhotspotstore/9/f/9f62e293c779b49ba00d35ee4bd2ea63279c8b37" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day03/.idea/sonarlint/securityhotspotstore/a/f/afa7083e9b37d4c82c8117e524f0e39941bab8c0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day03/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day03/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day03/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day03/day03.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day03/first/Exam1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day03/first/Exam1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day03/first/Exam2$Handler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day03/first/Exam2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day03/first/Exam2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day03/homework1/SimpleNC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day03/second/Ex1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day03/third/Ant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day04/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day04/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day04/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day04/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day04/.idea/sonarlint/issuestore/8/f/8fddbca6ffb2a010e061e72cfb38ee931052df12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day04/.idea/sonarlint/issuestore/d/2/d26400326e8972c0d443abda084b68163fd6e470" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day04/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day04/.idea/sonarlint/securityhotspotstore/8/f/8fddbca6ffb2a010e061e72cfb38ee931052df12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day04/.idea/sonarlint/securityhotspotstore/d/2/d26400326e8972c0d443abda084b68163fd6e470" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day04/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day04/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day04/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day04/day04.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day04/first/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day04/first/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day04/homework1/Connect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day04/homework1/Scurl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day04/homework1/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day04/pratice/prac01/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day04/pratice/prac01/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day04/pratice/prac02/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day04/pratice/prac02/Handler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day04/pratice/prac02/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day04/second/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day04/second/Handler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week02/day04/second/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/.idea/sonarlint/issuestore/0/4/04c955e6f18dcf1b3bf71441346b0ea7f1d98654" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/.idea/sonarlint/issuestore/0/5/05f836d6f0ff69342634ab25b02f808f12341010" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/.idea/sonarlint/issuestore/1/1/11a163bd42aa3ede967d09c85ebddfcd300995b7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/.idea/sonarlint/issuestore/1/7/17b34e93fb69701c8ceb7f53f28c4643952db02d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/.idea/sonarlint/issuestore/3/1/316ce5708be9a17335d32c9a72bbceaa5f109096" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/.idea/sonarlint/issuestore/8/0/8035025a3dd24d7d11dea2541a74c1bb9ae32d4d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/.idea/sonarlint/issuestore/8/e/8e0ac4898522414a4bfe01f6edd8a62a435023ac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/.idea/sonarlint/issuestore/e/8/e86cf3ccccaea6379557377ca4a2ad35c8e206f8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/.idea/sonarlint/securityhotspotstore/0/4/04c955e6f18dcf1b3bf71441346b0ea7f1d98654" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/.idea/sonarlint/securityhotspotstore/0/5/05f836d6f0ff69342634ab25b02f808f12341010" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/.idea/sonarlint/securityhotspotstore/1/1/11a163bd42aa3ede967d09c85ebddfcd300995b7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/.idea/sonarlint/securityhotspotstore/1/7/17b34e93fb69701c8ceb7f53f28c4643952db02d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/.idea/sonarlint/securityhotspotstore/3/1/316ce5708be9a17335d32c9a72bbceaa5f109096" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/.idea/sonarlint/securityhotspotstore/8/0/8035025a3dd24d7d11dea2541a74c1bb9ae32d4d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/.idea/sonarlint/securityhotspotstore/8/e/8e0ac4898522414a4bfe01f6edd8a62a435023ac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/.idea/sonarlint/securityhotspotstore/e/8/e86cf3ccccaea6379557377ca4a2ad35c8e206f8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/issuestore/0/1/0178170b521a61bc655973489f61cdd0bfb07a28" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/issuestore/0/8/080d61f70c9fb757b878e5f283d345f75e6b8684" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/issuestore/0/9/097660c2cc73460c87a9acb4ef89122d070e054c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/issuestore/0/c/0c927900aaf2a4a65502b687814361e98ec16a34" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/issuestore/1/3/1315a9738dc4431766fbc981dd8b3078d8b66231" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/issuestore/1/6/161303b048df5759da5c255764183edb925ea9dc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/issuestore/1/7/173d920909985a5f933c2ef24648fa19fa1eb03b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/issuestore/2/1/216150825bbca1f76a269dada8c1b7b5f1fe82a7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/issuestore/2/3/23b2b83276f3595f3ef8353c0cda2eef6ebdb2d9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/issuestore/2/8/2899b08ccdba0618de27d481ca443cc54f42c153" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/issuestore/3/e/3e50383632206a0e2e47c9e9af5a68b857071298" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/issuestore/4/3/437e56fd32086b359b2116e9176128ee6e457e2c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/issuestore/4/4/44876a08e1d38fef4e4bf3a777582a9cf17a27f7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/issuestore/4/d/4d5adf0ed17688b75b6364e3ca303705f20fd745" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/issuestore/4/d/4d64866b1d7a48824fe86a81e5adb82c09620ecd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/issuestore/5/8/5892d63a57101c20b36804cbaa13c5df8f676a7d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/issuestore/5/8/58de88809bfd4529291eb04b24a2adec31a3ed4e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/issuestore/6/4/64196a7af8a7ff547a5f71359aae5005254decda" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/issuestore/7/2/72fee01187844f9a6a1b6dbdfd3adbd164c1c634" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/issuestore/7/3/73fec3bccf7cc9bbb8e51911518abecded4f939f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/issuestore/7/8/7826a4a87cba6ae56ff580df8197a368ffa9e218" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/issuestore/8/0/804e1d6796d0bedbc141312e830b9bb2b2d9844b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/issuestore/8/1/8151108cb2005641da3738eaf56d180395492da8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/issuestore/8/6/86768630e09c1a1fc470a8c46b1456af5c9714c9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/issuestore/9/3/93d9ae215316fcdf22742034c998ef6be11e05c6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/issuestore/9/f/9fb3652928ce83e291dcb421bac440cd56d5ccad" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/issuestore/a/9/a9687de6485860bcf36c2c6c86624fca969c4691" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/issuestore/a/d/ad03146cda4a8d3c5ad542ebb4eab32adc331d14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/issuestore/b/0/b0399828e960228471f70e28cdc1ac3de1b036a0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/issuestore/b/1/b1efb1b7e4d2c439e9c87984131bea3b1569c515" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/issuestore/b/4/b4af6518e24a5a6bc2cd2fe865ebbc24fb87cf7b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/issuestore/b/a/bab076b82973665a2bbf69a4fc30599bd270233f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/issuestore/b/f/bf543cbedb276678e8ae76ea50002ffb46590bc6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/issuestore/c/1/c1ae4c2024bcafc860a42d0a790e822e838e5426" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/issuestore/c/5/c531f246a27f9c995c65569305917b45319dc658" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/issuestore/c/8/c8938c828491fbd2c42871c2a4a22bba60f3d258" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/issuestore/c/e/ceec074b6c151cec3b6d41dd4a07611bf482b596" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/issuestore/d/4/d4d59825cb3830286fea605004bb5cdc7836357e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/issuestore/d/8/d8c572c650f5742b080aff5928c61a29a02631e3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/issuestore/e/d/ed5181ee24f53415cdad72d10b799c20200e7e9d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/securityhotspotstore/0/1/0178170b521a61bc655973489f61cdd0bfb07a28" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/securityhotspotstore/0/8/080d61f70c9fb757b878e5f283d345f75e6b8684" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/securityhotspotstore/0/9/097660c2cc73460c87a9acb4ef89122d070e054c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/securityhotspotstore/0/c/0c927900aaf2a4a65502b687814361e98ec16a34" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/securityhotspotstore/1/3/1315a9738dc4431766fbc981dd8b3078d8b66231" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/securityhotspotstore/1/6/161303b048df5759da5c255764183edb925ea9dc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/securityhotspotstore/1/7/173d920909985a5f933c2ef24648fa19fa1eb03b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/securityhotspotstore/2/1/216150825bbca1f76a269dada8c1b7b5f1fe82a7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/securityhotspotstore/2/3/23b2b83276f3595f3ef8353c0cda2eef6ebdb2d9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/securityhotspotstore/2/8/2899b08ccdba0618de27d481ca443cc54f42c153" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/securityhotspotstore/3/e/3e50383632206a0e2e47c9e9af5a68b857071298" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/securityhotspotstore/4/3/437e56fd32086b359b2116e9176128ee6e457e2c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/securityhotspotstore/4/4/44876a08e1d38fef4e4bf3a777582a9cf17a27f7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/securityhotspotstore/4/d/4d5adf0ed17688b75b6364e3ca303705f20fd745" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/securityhotspotstore/4/d/4d64866b1d7a48824fe86a81e5adb82c09620ecd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/securityhotspotstore/5/8/5892d63a57101c20b36804cbaa13c5df8f676a7d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/securityhotspotstore/5/8/58de88809bfd4529291eb04b24a2adec31a3ed4e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/securityhotspotstore/6/4/64196a7af8a7ff547a5f71359aae5005254decda" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/securityhotspotstore/7/2/72fee01187844f9a6a1b6dbdfd3adbd164c1c634" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/securityhotspotstore/7/3/73fec3bccf7cc9bbb8e51911518abecded4f939f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/securityhotspotstore/7/8/7826a4a87cba6ae56ff580df8197a368ffa9e218" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/securityhotspotstore/8/0/804e1d6796d0bedbc141312e830b9bb2b2d9844b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/securityhotspotstore/8/1/8151108cb2005641da3738eaf56d180395492da8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/securityhotspotstore/8/6/86768630e09c1a1fc470a8c46b1456af5c9714c9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/securityhotspotstore/9/3/93d9ae215316fcdf22742034c998ef6be11e05c6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/securityhotspotstore/9/f/9fb3652928ce83e291dcb421bac440cd56d5ccad" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/securityhotspotstore/a/9/a9687de6485860bcf36c2c6c86624fca969c4691" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/securityhotspotstore/a/d/ad03146cda4a8d3c5ad542ebb4eab32adc331d14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/securityhotspotstore/b/0/b0399828e960228471f70e28cdc1ac3de1b036a0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/securityhotspotstore/b/1/b1efb1b7e4d2c439e9c87984131bea3b1569c515" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/securityhotspotstore/b/4/b4af6518e24a5a6bc2cd2fe865ebbc24fb87cf7b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/securityhotspotstore/b/a/bab076b82973665a2bbf69a4fc30599bd270233f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/securityhotspotstore/b/f/bf543cbedb276678e8ae76ea50002ffb46590bc6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/securityhotspotstore/c/1/c1ae4c2024bcafc860a42d0a790e822e838e5426" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/securityhotspotstore/c/5/c531f246a27f9c995c65569305917b45319dc658" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/securityhotspotstore/c/8/c8938c828491fbd2c42871c2a4a22bba60f3d258" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/securityhotspotstore/c/e/ceec074b6c151cec3b6d41dd4a07611bf482b596" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/securityhotspotstore/d/4/d4d59825cb3830286fea605004bb5cdc7836357e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/securityhotspotstore/d/8/d8c572c650f5742b080aff5928c61a29a02631e3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/securityhotspotstore/e/d/ed5181ee24f53415cdad72d10b799c20200e7e9d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/.idea/sonarlint/issuestore/0/b/0b958394607b79008a9884a516eaabc1ecc11e5f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/.idea/sonarlint/issuestore/1/c/1c799acc193a75cc09525ae7e2006c6c4b24922d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/.idea/sonarlint/issuestore/2/1/21b629e62a142c907eb9f8b739c75b35fad80463" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/.idea/sonarlint/issuestore/2/6/26fdcbc910942ddd44ce11f4abcbc97f5bf82c57" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/.idea/sonarlint/issuestore/2/9/29b6a1b2ebf31bf82b08af5d4ed8d58bff721cfa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/.idea/sonarlint/issuestore/3/9/39969134a90d815ddc21591c71327b35bc85f4d8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/.idea/sonarlint/issuestore/6/f/6fcf35cf2b29bb86a34f1d80bf9843f64eb94fb9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/.idea/sonarlint/issuestore/9/a/9abf18cbefd5715dc4f9d454d22fe13ba0c1a5e5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/.idea/sonarlint/issuestore/b/2/b2f812b382399438ade8659d4f61ed1b74acc841" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/.idea/sonarlint/issuestore/b/6/b673843924a537f775e1a1cc375db48c56ef0d2f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/.idea/sonarlint/issuestore/c/b/cbc17334bf1236f95c3d769017837b1d8add2004" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/.idea/sonarlint/issuestore/d/e/defa63e83576f9294410a1468ca5291ebfa6d9b9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/.idea/sonarlint/securityhotspotstore/0/b/0b958394607b79008a9884a516eaabc1ecc11e5f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/.idea/sonarlint/securityhotspotstore/1/c/1c799acc193a75cc09525ae7e2006c6c4b24922d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/.idea/sonarlint/securityhotspotstore/2/1/21b629e62a142c907eb9f8b739c75b35fad80463" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/.idea/sonarlint/securityhotspotstore/2/6/26fdcbc910942ddd44ce11f4abcbc97f5bf82c57" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/.idea/sonarlint/securityhotspotstore/2/9/29b6a1b2ebf31bf82b08af5d4ed8d58bff721cfa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/.idea/sonarlint/securityhotspotstore/3/9/39969134a90d815ddc21591c71327b35bc85f4d8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/.idea/sonarlint/securityhotspotstore/6/f/6fcf35cf2b29bb86a34f1d80bf9843f64eb94fb9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/.idea/sonarlint/securityhotspotstore/9/a/9abf18cbefd5715dc4f9d454d22fe13ba0c1a5e5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/.idea/sonarlint/securityhotspotstore/b/2/b2f812b382399438ade8659d4f61ed1b74acc841" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/.idea/sonarlint/securityhotspotstore/b/6/b673843924a537f775e1a1cc375db48c56ef0d2f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/.idea/sonarlint/securityhotspotstore/c/b/cbc17334bf1236f95c3d769017837b1d8add2004" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/.idea/sonarlint/securityhotspotstore/d/e/defa63e83576f9294410a1468ca5291ebfa6d9b9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/first/CollectionSample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/homework1/Dictionary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/homework1/words.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/out/production/day01/day01/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/out/production/day01/day01/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/out/production/day01/day01/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/out/production/day01/day01/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/out/production/day01/day01/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/out/production/day01/day01/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/out/production/day01/day01/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/out/production/day01/day01/homework1/Dictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/out/production/day01/day01/homework1/words.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/out/production/day01/day01/pratice/prac01/Collection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/out/production/day01/day01/pratice/prac01/Lecture.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/out/production/day01/day01/pratice/prac01/LectureIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/out/production/day01/day01/pratice/prac01/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/out/production/day01/day01/pratice/prac01/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/out/production/day01/day01/pratice/prac02/Dictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/out/production/day01/day01/third/Collection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/out/production/day01/day01/third/Lecture.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/out/production/day01/day01/third/LectureIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/out/production/day01/day01/third/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/out/production/day01/day01/third/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/pratice/prac01/Collection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/pratice/prac01/Lecture.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/pratice/prac01/LectureIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/pratice/prac01/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/pratice/prac01/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/pratice/prac02/Dictionary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/second/DesendingOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/second/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/second/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/second/Users.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/third/Collection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/third/Lecture.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/third/LectureIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/third/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day01/third/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day02/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day02/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day02/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day02/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day02/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day02/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day02/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day02/first/AccountPrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day02/first/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day02/first/CreateAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day02/first/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day02/second/AccountNumberCreater.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day02/second/AccountPrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day02/second/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day02/second/IAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day02/second/IPrint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day02/second/LimitedBankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day02/second/SavingAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day02/second/SavingAccountPrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day02/second/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day02/third/AreaCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day02/third/Calculable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day02/third/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day02/third/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day02/third/Singleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day02/third/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day02/third/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day02/third/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/fifth/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/fifth/NutritionFacts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/fifth/builder/Builder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/fifth/builder/HTMLBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/fifth/builder/TextBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/fifth/director/Album.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/first/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/fourth/Guitarist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/drink/Drink.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/drink/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/drink/Type.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/factory/DrinkFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/factory/HotFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/factory/IceFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/framework/ActiveVendingMachine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/framework/VendingMachine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/out/production/homework1/day03/homework1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/out/production/homework1/day03/homework1/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/out/production/homework1/day03/homework1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/out/production/homework1/day03/homework1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/out/production/homework1/day03/homework1/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/out/production/homework1/day03/homework1/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/out/production/homework1/day03/homework1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/out/production/homework1/day03/homework1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/out/production/homework1/day03/homework1/drink/Drink.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/out/production/homework1/day03/homework1/drink/Menu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/out/production/homework1/day03/homework1/drink/Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/out/production/homework1/day03/homework1/factory/DrinkFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/out/production/homework1/day03/homework1/factory/HotFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/out/production/homework1/day03/homework1/factory/IceFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/out/production/homework1/day03/homework1/framework/ActiveVendingMachine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/out/production/homework1/day03/homework1/framework/VendingMachine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/out/production/homework1/day03/homework1/pay/CardPay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/out/production/homework1/day03/homework1/pay/CashPay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/out/production/homework1/day03/homework1/pay/KakaoPay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/out/production/homework1/day03/homework1/pay/Payable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/out/production/homework1/day03/homework1/pay/Payment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/pay/CardPay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/pay/CashPay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/pay/KakaoPay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/pay/Payable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/homework1/pay/Payment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/second/Guitarist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/second/Singleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/second/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/sixth/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/sixth/Cellphone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/sixth/CellphoneFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/sixth/CreateAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/sixth/Factory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/sixth/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/sixth/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/third/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/third/CreateAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/third/IAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/third/IPrint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/third/LimitedBankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/third/PrintAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/third/PrintLimitedBankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day03/third/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day04/fifth/BibimRamen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day04/fifth/Ramen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day04/fifth/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day04/first/Enumerable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day04/first/Enumerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day04/first/Guitarist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day04/first/GuitaristList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day04/first/ListEnumerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day04/first/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day04/fourth/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day04/fourth/KoreanTeacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day04/fourth/MathTeacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day04/fourth/Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day04/fourth/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day04/second/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day04/second/Drummer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day04/second/DrummerEnumerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day04/second/DrummerEnumeratorAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day04/second/DrummerList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day04/second/DrummerListAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day04/second/Enumerable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day04/second/Enumerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day04/second/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day05/first/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day05/first/ingredient/Acceptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day05/first/ingredient/Pork.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day05/first/recipe/Barbeque.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day05/first/recipe/Boil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day05/first/recipe/Cook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day05/first/recipe/Fry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day05/first/recipe/Roast.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day05/first/recipe/Vistor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week03/src/main/java/day05/homework1/JavaToHTML.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/.idea/sonarlint/issuestore/0/b/0ba1b9c7a4878802f938e331cc2d8a042087ec6b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/.idea/sonarlint/securityhotspotstore/0/b/0ba1b9c7a4878802f938e331cc2d8a042087ec6b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week04/src/main/java/org/example/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Nuk0laAcdWBYXubwDJtwnO2MjK" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/kusun1020/Desktop/Projects/source",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="TomeeConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ab3ca3b-b0f4-42c2-83ed-4c13ffb5e293" name="Changes" comment="" />
+      <created>1680521133979</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680521133979</updated>
+      <workItem from="1680521135374" duration="3495000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

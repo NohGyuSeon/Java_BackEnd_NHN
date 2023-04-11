@@ -1,0 +1,11 @@
+
+b
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ì·´Í
+N	java:S106"9Replace this use of System.out or System.err by a logger.(šášâ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(½èÆò
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÿÑù£
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¨æ¤¶
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‹ßñÖ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(¤ ¤
+U
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ

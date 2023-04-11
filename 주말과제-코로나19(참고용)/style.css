@@ -1,0 +1,115 @@
+* {
+  maring: 0px;
+  padding: 0px;
+}
+
+main {
+  width: 1000px;
+  border-width: 1px;
+  border-color: #ccc;
+  border-style: solid;
+  min-height: 1000px;
+  margin: auto;
+}
+
+nav {
+  text-align: center;
+  padding: 20px;
+}
+
+#navi-ymd {
+  color: aqua;
+}
+
+#btn-prev, #btn-next, #btn-today {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #ccc;
+  width: 100px;
+  height: 50px;
+  margin-left: 10px;
+  margin-right: 10px;
+  cursor: hand;
+  border-radius: 11%;
+}
+
+header {
+  width: 1000px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #ccc;
+  background-color: black;
+  color: white;
+}
+
+header h1 {
+  text-align: center;
+}
+
+.daily-status {
+  list-style: none;
+}
+
+.daily-status:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+.daily-status li {
+  width: 24%;
+  float: left;
+  text-align: center;
+}
+
+.daily-status li:nth-child(1), li:nth-child(2), li:nth-child(3) {
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-right-color: rgb(247, 245, 242);
+}
+
+.daily-status li strong {
+  color: #ccc;
+}
+
+.daily-status li p {
+  font-size: 15pt;
+  font-weight: 900;
+}
+
+#covid-category-table {
+  width: 98%;
+  border-collapse: collapse;
+  border-style: solid;
+  border-color: #ccc;
+  border-width: 1px;
+  margin: auto;
+}
+
+#covid-category-table caption {
+  font-size: 20pt;
+  font-weight: bold;
+  padding: 20px;
+}
+
+#covid-category-table td, th {
+  border-width: 1px;
+  border-color: #ccc;
+  border-style: solid;
+  text-align: center;
+  padding: 5px;
+}
+
+#loading {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  background-color: white;
+  position: absolute;
+  z-index: 1000;
+  opacity: 20%;
+  background-image: url('https://media.tenor.com/YtAOA9y7VG0AAAAC/loading.gif');
+  background-repeat: no-repeat;
+  background-position: center;
+}

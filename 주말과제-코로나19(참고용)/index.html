@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>코로나19 현황판</title>
+        <link rel="stylesheet" href="./style.css"/>
+        <script src="./navigator.js"></script>
+        <script src="./api.js"></script>
+        <script src="./main.js"></script>
+    </head>
+    <body>
+        <main>
+            <nav>
+                <button id="btn-prev">이전</button>
+                <button id="btn-next">다음</button>
+                <button id="btn-today">오늘</button>
+            </nav>
+            <header>
+                <h1>코로나바이러스-19 <span id="navi-ymd"></span> </h1>
+                <ul class="daily-status">
+                    <li>
+                        <strong>누적 사망자수</strong>
+                        <p id="ds1"></p>
+                    </li>
+                    <li>
+                        <strong>누적 확진자수</strong>
+                        <p id="ds2" ></p>
+                    </li>
+                    <li>
+                        <strong>누적 검사수</strong>
+                        <p id="ds3"></p>
+                    </li>
+                    <li>
+                        <strong>인구 10만명당 사망</strong>
+                        <p id="ds4"></p>
+                    </li>
+                </ul>
+                
+                <ul class="daily-status">
+                    <li>
+                        <strong>일일 확진</strong>
+                        <p id="ds5"></p>
+                    </li>
+                    <li>
+                        <strong>일일 사망</strong>
+                        <p id="ds6" ></p>
+                    </li>
+                    <li>
+                        <strong>일일 신규입원</strong>
+                        <p id="ds7"></p>
+                    </li>
+                    <li>
+                        <strong>일일 재원 위중증</strong>
+                        <p id="ds8"></p>
+                    </li>
+                </ul>
+
+            </header>
+            <content>
+                <table id="covid-category-table">
+                    <caption>연령대별</caption>
+                    <thead>
+                        <tr>
+                            <th>구분</th>
+                            <th>치명율</th>
+                            <th>사망자수</th>
+                            <th>확진자수</th>
+                            <th>사망율</th>
+                            <th>확진율</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    </tbody>
+                </table>
+
+            </content>
+        </main>
+        <div id="loading"></div>
+    </body>
+</html>
